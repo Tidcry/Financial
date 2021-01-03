@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+.search-bar-new{
+    margin-bottom: 15px;
+    height: 80px;
+}
+.search-label{
+    height: 20%;
+    margin-bottom: 10px;
+ }
+.search-text{
+    height: 80%;
+}
+.label-price{
+    margin-left: 194px;
+}
+.label-date{
+    margin-left: 430px;
+}
+.text {
+    width: 150px !important;
+    height: 38px;
+    border-color: #ebebeb;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    color: #8b95a5;
+    padding: 5px 12px;
+    line-height: inherit;
+    -webkit-transition: 0.2s linear;
+    transition: 0.2s linear;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.form-control{
+    display: inline-block !important;
+}
+.input-text-price1 {
+    font-size: 14px;
+    background-color: #fff;
+    background-image: none;
+    margin-left: 100px;
+}
+.label-input-price{
+    margin-left: 20px;
+    font-size: 14px;
+}
+.input-text-price2 {
+    font-size: 14px;
+    background-color: #fff;
+    background-image: none;
+    margin-left: 20px;
+}
+.input-text-date1 {
+    font-size: 14px;
+    background-color: #fff;
+    background-image: none;
+    margin-left: 100px;
+}
+.label-input-date{
+    margin-left: 20px;
+    font-size: 14px;
+}
+.input-text-date2 {
+    font-size: 14px;
+    background-color: #fff;
+    background-image: none;
+    margin-left: 20px;
+}
+.btn-amend {
+    background-color: #33cabb;
+    border-color: #33cabb;
+    color: #fff!important;
+}
+.btn-amend:hover {
+    background-color: #16d17f;
+    border-color: #16d17f;
+}
+.btn-danger {
+    background-color: #33cabb;
+    border-color: #33cabb;
+    color: #fff!important;
+}
+.btn-danger:hover {
+    background-color: #fa8181;
+    border-color: #fa8181;
+}
+.btn-search {
+    background-color: #33cabb;
+    border-color: #33cabb;
+    color: #fff!important;
+}
+.btn-search:hover {
+    background-color: #16d17f;
+    border-color: #16d17f;
+}
+.btn-primary {
+    background-color: #33cabb;
+    border-color: #33cabb;
+    color: #fff!important;
+}
+.btn-primary:hover {
+    background-color: #fa8181;
+    border-color: #fa8181;
+}
